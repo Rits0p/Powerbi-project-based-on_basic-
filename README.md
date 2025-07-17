@@ -70,6 +70,8 @@ This dashboard supports decision-making by:
 - All data preparation was handled in Excel, while modeling and visuals were built in Power BI  
 
 ---
+snapshot of dashbaord 
+<img width="708" height="871" alt="Snapshot of Amezon sales Report Dashbord" src="https://github.com/user-attachments/assets/15c51a2c-c2aa-4420-9267-7aa1ff6fd43d" />
 
 
 
